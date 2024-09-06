@@ -2,6 +2,8 @@
 
 This is a console application writem in C# to emulate a SlimeVR Tracker.
 
+![alt text](image.png)
+
 ## How to Clone and Build
 
 1. **Clone the repository:**
