@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SlimeVR-TracterEmulator": {
+      "commandName": "Project",
+      "commandLineArgs": "--sensors 2"
+    }
+  }
+}
